@@ -12,7 +12,7 @@ public class MySQLConnectionFactory {
 	// API JDBC >= 3 e Java >= 5
 	private static final String JDBC_DRIVER_NAME = "com.mysql.cj.jdbc.Driver";
 
-	private static final String DATABASE_URL = "jdbc:mysql://127.0.0.1:3306/facebook";
+	private static final String DATABASE_URL = "jdbc:mysql://127.0.0.1/facebook";
 
 	// Credenciais
 	static final String USER = "root";
